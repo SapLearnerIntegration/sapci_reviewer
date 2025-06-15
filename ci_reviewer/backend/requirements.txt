@@ -1,0 +1,53 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+rich
+
+# HTTP client for testing
+httpx
+
+# SAP Integration dependencies
+requests
+python-dotenv
+
+# Data processing
+pandas
+numpy
+
+# Document processing
+python-docx
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+
+# AI/ML dependencies
+crewai
+openai
+anthropic
+groq
+langchain
+langchain-anthropic
+langchain-groq
+langchain-openai
+
+#Database
+asyncpg
+
+# Async support
+asyncio-mqtt
+
+# Logging and monitoring
+structlog
+
+# File handling
+zipfile36
+
+# Development dependencies
+pytest
+pytest-asyncio
+black
+flake8
